@@ -6,8 +6,8 @@
 [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/boxvidra)
 [![discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.com/invite/QuxeRdwk)
 [![Buy me a coffee](https://img.shields.io/badge/buy_me_a-coffee-FFDD00?style=shield&logo=paypal)]()
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.me/201026862348)
-[![Facebook](https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white)](https://www.facebook.com/p/%D9%85%D9%8E%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%88%D9%83%D8%B3%DA%A4%D9%8A%D8%AF%D8%B1%D8%A7-boxvidra-project-61567755666624/?mibextid=ZbWKwL)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/p/%D9%85%D9%8E%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%88%D9%83%D8%B3%DA%A4%D9%8A%D8%AF%D8%B1%D8%A7-boxvidra-project-61567755666624/?mibextid=ZbWKwL)
 
 **BOXVIDRA PROJECT** Created By :
 * `AGENT 404 (The Owner)`
