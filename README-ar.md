@@ -1,15 +1,15 @@
 ![Logo](https://github.com/user-attachments/assets/0c0d46a7-25e2-4fc4-89b7-18c165ea30ad)
 
 
-English
+العربيه
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ar.md">العربية</a>
+<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README.md">English</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ru.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-cn.md">中国人 </a>
 
-* `Our Social Media Accounts`
+* `حساباتنا علي مواقع التواصل الاجتماعي`
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/QuxeRdwk)
@@ -20,7 +20,7 @@ English
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 
-* `Programming Languages And Databases`
+* `لغات البرمجة وقواعد البيانات`
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
