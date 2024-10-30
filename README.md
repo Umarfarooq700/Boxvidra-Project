@@ -218,15 +218,15 @@ Or using only controller games
 
 
 ## Games Tests :
-* GTA IV On Redmi Note 11 (15-35 Fps)
+* GTA IV On Redmi Note 11     (15-35 Fps)
 ![IMG_20241030_084722_215](https://github.com/user-attachments/assets/259e5b39-0889-4e57-9a8b-34d2b492f6b8)
 
 
-* Mafia II On Redmi Note 11 (15-30 Fps)
+* Mafia II On Redmi Note 11   (15-30 Fps)
 ![IMG_20241030_084503_364](https://github.com/user-attachments/assets/02149c78-994d-4bea-9d73-6220a540a9ee)
 
 
-* IGI 1 On Redmi Note 11 (40-150 Fps)
+* IGI 1 On Redmi Note 11     (40-150 Fps)
 ![IMG_20241030_084806_843](https://github.com/user-attachments/assets/906501f9-e339-44a4-b91e-2c865a01c817)
 
 
