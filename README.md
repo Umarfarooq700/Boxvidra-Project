@@ -235,16 +235,19 @@ Or using only controller games
 
 ## Games Tests (Proot) :
 * Zuma Deluxe On Redmi Note 11 (80-100 Fps)
-![IMG_20241030_085958_338](https://github.com/user-attachments/assets/28d45d0e-6cb7-46a0-8068-ed2ebd0a3807)
+![IMG_20241030_090254_395](https://github.com/user-attachments/assets/499b53df-877b-41ca-9bb6-e1d77cdfc3bc)
+
 
 
 
 * GTA III On Redmi Note 11 (40-90 Fps)
-![IMG_20241030_090013_507](https://github.com/user-attachments/assets/b3a07f70-c903-423f-8a68-95ea1aeab190)
+![IMG_20241030_090254_288](https://github.com/user-attachments/assets/a64e10d1-2e33-481f-b9ea-5542ad8b0607)
+
 
 
 * Max Payne 1 On Redmi Note 11 (40-90 Fps)
-![IMG_20241030_090007_418](https://github.com/user-attachments/assets/968f6620-d94e-4d9b-8077-68941cd02c1a)
+![IMG_20241030_090254_545](https://github.com/user-attachments/assets/18e8f501-fedc-430f-be6d-3eb6be7d8eb2)
+
 
 
 ## Big Thanks To :
