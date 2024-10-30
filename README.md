@@ -41,7 +41,7 @@ English
 This project contains `Five` `Systems/Emulators` : 
 * `Boxvidra Emulator Native`
 * `Boxvidra Emulator Proot`
-* `Vionex` `Alaix` `Brovix`
+* `Vionex` `Aionex` `Leonx3`
 
 # Boxvidra Emulator Native And Boxvidra Emulator Proot :
 
