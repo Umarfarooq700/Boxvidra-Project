@@ -2,12 +2,16 @@
 ![1724899503017](https://github.com/user-attachments/assets/0c0d46a7-25e2-4fc4-89b7-18c165ea30ad)
 
 
+* `Check Our Social Media Accounts`
 
-[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)](https://t.me/boxvidra)
-[![discord](https://img.shields.io/discord/308323056592486420?logo=discord)](https://discord.com/invite/QuxeRdwk)
-[![Buy me a coffee](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@boxvidra?feature=shared)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
+[![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/QuxeRdwk)
+[![Youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@boxvidra?feature=shared)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201026862348)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/p/%D9%85%D9%8E%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D9%88%D9%83%D8%B3%DA%A4%D9%8A%D8%AF%D8%B1%D8%A7-boxvidra-project-61567755666624/?mibextid=ZbWKwL)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)
 
 **BOXVIDRA PROJECT** Created By :
 * `AGENT 404 (The Owner)`
