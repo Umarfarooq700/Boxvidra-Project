@@ -200,31 +200,39 @@ Or using only controller games
 * `Boxvidra Project Icon Pack` It is a package specially prepared for Boxvidra Emulator users in general and equipped to complement Boxvidra Emulator with many, many icons and colors that give the user the real experience of computer simulation and computer games on the cell phone, with control profiles that facilitate the playing process much more
 
 * Boxvidra Project Icon Pack (Orange)
+  
 ![Orange](https://github.com/user-attachments/assets/8d83cfac-7e8e-4a72-a9eb-cd7183303bb9)
 
 
 
 * Boxvidra Project Icon Pack (Blue)
+* 
 ![Blue](https://github.com/user-attachments/assets/2180ab77-8a16-480b-bfff-8cca6e2073f6)
 
 
 
 * Boxvidra Project Icon Pack (Red)
+  
 ![Red](https://github.com/user-attachments/assets/be9b784b-fc3a-4e05-bd4b-14f45b4c27e2)
 
 
 
 ## Games Tests :
 * GTA IV On Redmi Note 11
+![IMG_20241030_084722_215](https://github.com/user-attachments/assets/259e5b39-0889-4e57-9a8b-34d2b492f6b8)
 
 
 * Mafia II On Redmi Note 11
+![IMG_20241030_084503_364](https://github.com/user-attachments/assets/02149c78-994d-4bea-9d73-6220a540a9ee)
 
 
 * IGI 1 On Redmi Note 11
+![IMG_20241030_084806_843](https://github.com/user-attachments/assets/906501f9-e339-44a4-b91e-2c865a01c817)
 
 
 * NFSMW 2012 On Redmi Note 11
+  
+![IMG_20241030_084541_071](https://github.com/user-attachments/assets/564cc5cd-1ed9-40d4-bf37-b109bf683dc8)
 
 
 ## Big Thanks To :
