@@ -241,7 +241,8 @@ Or using only controller games
 
 
 * GTA III On Redmi Note 11 (40-90 Fps)
-![IMG_20241030_090254_288](https://github.com/user-attachments/assets/a64e10d1-2e33-481f-b9ea-5542ad8b0607)
+![IMG_20241030_092948_335](https://github.com/user-attachments/assets/b25be629-3c58-4280-998a-5f89aefa8aff)
+
 
 
 
