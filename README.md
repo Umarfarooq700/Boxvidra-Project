@@ -72,7 +72,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxv
 
 ```bash
 
-curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/Scripts/Proot/install-Proot-Not-Available && . ~/x
+Proot Version Is Not Available At The Moment 
 ```
 
 #
@@ -192,7 +192,58 @@ Through it you can completely modify the system, and apply the appropriate setti
 
 
 
-## Controllers :
+## Controllers And Boxvidra Project Icon Pack And Profiles :
 
 * `Input bridge` app is required if you want to make a control buttons in the screen, also you can use `Xinput` bridge. if you want use controller
 Or using only controller games
+
+* `Boxvidra Project Icon Pack` It is a package specially prepared for Boxvidra Emulator users in general and equipped to complement Boxvidra Emulator with many, many icons and colors that give the user the real experience of computer simulation and computer games on the cell phone, with control profiles that facilitate the playing process much more
+
+* Boxvidra Project Icon Pack (Orange)
+
+
+* Boxvidra Project Icon Pack (Blue)
+
+
+* Boxvidra Project Icon Pack (Red)
+
+
+## Games Tests :
+* GTA IV On Redmi Note 11
+
+
+* Mafia II On Redmi Note 11
+
+
+* IGI 1 On Redmi Note 11
+
+
+* NFSMW 2012 On Redmi Note 11
+
+
+## Big Thanks To :
+* `Michael De Mani`
+* `James Brono`
+* `Mark Melbert`
+
+## Third party applications
+
+[Box64](https://github.com/ptitSeb/box64)
+
+[Box86](https://github.com/ptitSeb/box86)
+
+[DXVK](https://github.com/doitsujin/dxvk)
+
+[DXVK-ASYNC](https://github.com/Sporif/dxvk-async)
+
+[DXVK-GPLASYNC](https://gitlab.com/Ph42oN/dxvk-gplasync)
+
+[Termux](https://github.com/termux/termux-app)
+
+[Termux-X11](https://github.com/termux/termux-x11)
+
+[Wine](https://wiki.winehq.org/Licensing)
+
+[Mesa](https://docs.mesa3d.org/license.html)
+
+[Mesa-VirGL](https://github.com/alexvorxx/Mesa-VirGL) 
