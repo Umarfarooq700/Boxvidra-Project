@@ -3,7 +3,7 @@
 
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ar.md">العربية</a>
+<a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./blob/boxvidra/README-ar.md">العربية</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ru.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
