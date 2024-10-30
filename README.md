@@ -72,7 +72,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxv
 
 ```bash
 
-Proot Version Is Not Available At The Moment 
+'Proot Version Is Not Available At The Moment'
 ```
 
 #
