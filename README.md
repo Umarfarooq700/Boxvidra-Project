@@ -3,11 +3,11 @@
 
 English
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./blob/boxvidra/README-ar.md">العربية</a>
+<a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./blob/boxvidra/Boxvidra%20Project%20(%20Languages%20)/README-ar.md">العربية</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ru.md">Русский</a>
+<a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./blob/boxvidra/Boxvidra%20Project%20(%20Languages%20)/README-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-cn.md">中国人 </a>
+<a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./blob/boxvidra/Boxvidra%20Project%20(%20Languages%20)/README-cn.md">中国人 </a>
 
 * `Our Social Media Accounts`
 
