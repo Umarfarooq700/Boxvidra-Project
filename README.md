@@ -197,23 +197,30 @@ Through it you can completely modify the system, and apply the appropriate setti
 * `Input bridge` app is required if you want to make a control buttons in the screen, also you can use `Xinput` bridge. if you want use controller
 Or using only controller games
 
-* `Boxvidra Project Icon Pack` It is a package specially prepared for Boxvidra Emulator users in general and equipped to complement Boxvidra Emulator with many, many icons and colors that give the user the real experience of computer simulation and computer games on the cell phone, with control profiles that facilitate the playing process much more
+* `Boxvidra Project Icon Pack` is a package specially prepared for Boxvidra Emulator users in general and equipped to complement Boxvidra Emulator with many, many icons and colors that give the user the real experience of computer simulation and computer games on the cell phone, with control profiles that facilitate the playing process much more
+[Download The Full Version](https://github.com/Boxvidra/BOXVIDRA-PROJECT./releases/download/Boxvidra-Icon-Pack/Boxvidra.Project.Icon.Pack.V1.0.tar.xz)
+
 
 * Boxvidra Project Icon Pack (Orange)
   
 ![Orange](https://github.com/user-attachments/assets/8d83cfac-7e8e-4a72-a9eb-cd7183303bb9)
+[Download](https://github.com/Boxvidra/BOXVIDRA-PROJECT./releases/download/Boxvidra-Icon-Pack/Boxvidra-Project-Icons-Orange.tar.xz)
+
 
 
 
 * Boxvidra Project Icon Pack (Blue)
 
 ![Blue](https://github.com/user-attachments/assets/2180ab77-8a16-480b-bfff-8cca6e2073f6)
+[Download](https://github.com/Boxvidra/BOXVIDRA-PROJECT./releases/download/Boxvidra-Icon-Pack/Boxvidra-Project-Icons-Blue.tar.xz)
+
 
 
 
 * Boxvidra Project Icon Pack (Red)
   
 ![Red](https://github.com/user-attachments/assets/be9b784b-fc3a-4e05-bd4b-14f45b4c27e2)
+[Download](https://github.com/Boxvidra/BOXVIDRA-PROJECT./releases/download/Boxvidra-Icon-Pack/Boxvidra-Project-Icons-Red-And-White.tar.xz)
 
 
 
