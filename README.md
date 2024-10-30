@@ -2,7 +2,7 @@
 ![1724899503017](https://github.com/user-attachments/assets/0c0d46a7-25e2-4fc4-89b7-18c165ea30ad)
 
 
-* `Check Our Social Media Accounts`
+* `Check Our Social Media Accounts And Channels`
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/boxvidra)
 [![discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/QuxeRdwk)
