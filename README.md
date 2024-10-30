@@ -219,35 +219,48 @@ Or using only controller games
 
 ## Games Tests (Native) :
 * GTA IV On Redmi Note 11            (15-35 Fps)
-![IMG_20241030_084722_215](https://github.com/user-attachments/assets/259e5b39-0889-4e57-9a8b-34d2b492f6b8)
+![GTA IV](https://github.com/user-attachments/assets/259e5b39-0889-4e57-9a8b-34d2b492f6b8)
 
 
 * Mafia II On Redmi Note 11         (15-30 Fps)
-![IMG_20241030_084503_364](https://github.com/user-attachments/assets/02149c78-994d-4bea-9d73-6220a540a9ee)
+![MAFIA II](https://github.com/user-attachments/assets/02149c78-994d-4bea-9d73-6220a540a9ee)
 
 
 * IGI 1 On Redmi Note 11            (40-150 Fps)
-![IMG_20241030_084806_843](https://github.com/user-attachments/assets/906501f9-e339-44a4-b91e-2c865a01c817)
+![IGI 1](https://github.com/user-attachments/assets/906501f9-e339-44a4-b91e-2c865a01c817)
 
 
 * NFSMW 2012 On Redmi Note 11 (10-25 Fps)
-![IMG_20241030_084541_071](https://github.com/user-attachments/assets/564cc5cd-1ed9-40d4-bf37-b109bf683dc8)
+![NFSMW 2012](https://github.com/user-attachments/assets/564cc5cd-1ed9-40d4-bf37-b109bf683dc8)
 
 ## Games Tests (Proot) :
 * Zuma Deluxe On Redmi Note 11 (80-100 Fps)
-![IMG_20241030_090254_395](https://github.com/user-attachments/assets/499b53df-877b-41ca-9bb6-e1d77cdfc3bc)
+![Zuma Deluxe](https://github.com/user-attachments/assets/499b53df-877b-41ca-9bb6-e1d77cdfc3bc)
 
 
 
 
 * GTA III On Redmi Note 11 (40-90 Fps)
-![IMG_20241030_092948_335](https://github.com/user-attachments/assets/b25be629-3c58-4280-998a-5f89aefa8aff)
+![GTA III](https://github.com/user-attachments/assets/b25be629-3c58-4280-998a-5f89aefa8aff)
 
 
 
 
 * Max Payne 1 On Redmi Note 11 (40-90 Fps)
-![IMG_20241030_090254_545](https://github.com/user-attachments/assets/18e8f501-fedc-430f-be6d-3eb6be7d8eb2)
+![Max Payne 1](https://github.com/user-attachments/assets/18e8f501-fedc-430f-be6d-3eb6be7d8eb2)
+
+
+# Boxvidra Emulator Native And Proot Idea :
+The general idea of ​​Boxvidra Emulator Native and Proot is to emulate the computer on the cell phone in all simplicity, running computer games and programs on your phone with a Windows interface such as Windows 7, 10 or 11 with the best performance and the best experience, so you are in the right place here, however, each version has advantages. For example, the Native version enjoys superior performance and extreme smoothness more than Proot. So if you want to play, browse, and run computer programs very smoothly and quickly, then your ideal choice is Native, or if you want to work, play, browse, run more programs, and enjoy a better graphical interface with average and adaptive performance, then your ideal choice is Proot.
+
+
+
+## Vionex And Aionex Systems :
+* Not Available At The Moment.
+
+## Lenox3 Emulator :
+* Not Available At The Moment.
+
 
 
 
@@ -255,6 +268,24 @@ Or using only controller games
 * `Michael De Mani`
 * `James Brono`
 * `Mark Melbert`
+* `Alex Morgan`
+* `Simon Fred`
+* `Derek Rogan`
+
+## Special Thanks To :
+* `ApTrex`
+* `Damon King`
+* `Tricky Guy`
+
+## Our Special Users :
+* `SAIF`
+* `Ms.Edryll`
+* `Mondo I. Jeremie`
+* `Yuuto`
+* `Ujjwal`
+* `Ahmed Salah`
+* `Magi Evan`
+* `Yara Mostafa`
 
 ## Third party applications
 
