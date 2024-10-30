@@ -206,7 +206,7 @@ Or using only controller games
 
 
 * Boxvidra Project Icon Pack (Blue)
-* 
+
 ![Blue](https://github.com/user-attachments/assets/2180ab77-8a16-480b-bfff-8cca6e2073f6)
 
 
@@ -217,21 +217,31 @@ Or using only controller games
 
 
 
-## Games Tests :
-* GTA IV On Redmi Note 11     (15-35 Fps)
+## Games Tests (Native) :
+* GTA IV On Redmi Note 11            (15-35 Fps)
 ![IMG_20241030_084722_215](https://github.com/user-attachments/assets/259e5b39-0889-4e57-9a8b-34d2b492f6b8)
 
 
-* Mafia II On Redmi Note 11   (15-30 Fps)
+* Mafia II On Redmi Note 11         (15-30 Fps)
 ![IMG_20241030_084503_364](https://github.com/user-attachments/assets/02149c78-994d-4bea-9d73-6220a540a9ee)
 
 
-* IGI 1 On Redmi Note 11     (40-150 Fps)
+* IGI 1 On Redmi Note 11            (40-150 Fps)
 ![IMG_20241030_084806_843](https://github.com/user-attachments/assets/906501f9-e339-44a4-b91e-2c865a01c817)
 
 
 * NFSMW 2012 On Redmi Note 11 (10-25 Fps)
 ![IMG_20241030_084541_071](https://github.com/user-attachments/assets/564cc5cd-1ed9-40d4-bf37-b109bf683dc8)
+
+## Games Tests (Proot) :
+* Zuma Deluxe On Redmi Note 11 (80-100 Fps)
+
+
+
+* GTA III On Redmi Note 11 (40-90 Fps)
+
+
+* Max Payne 1 On Redmi Note 11 (40-90 Fps)
 
 
 ## Big Thanks To :
