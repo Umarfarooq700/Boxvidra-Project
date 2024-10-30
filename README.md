@@ -7,8 +7,6 @@ English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ru.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ja.md">日本語</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-zh_CN.md">简体中文</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
 
