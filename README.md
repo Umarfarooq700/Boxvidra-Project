@@ -200,12 +200,15 @@ Or using only controller games
 * `Boxvidra Project Icon Pack` It is a package specially prepared for Boxvidra Emulator users in general and equipped to complement Boxvidra Emulator with many, many icons and colors that give the user the real experience of computer simulation and computer games on the cell phone, with control profiles that facilitate the playing process much more
 
 * Boxvidra Project Icon Pack (Orange)
+![Cont3](https://github.com/user-attachments/assets/6a2bde44-24db-453c-a594-465a10a7583b)
 
 
 * Boxvidra Project Icon Pack (Blue)
+![Cont2](https://github.com/user-attachments/assets/e20e02e1-2810-4a4f-a3c8-3d1d24227222)
 
 
 * Boxvidra Project Icon Pack (Red)
+![Cont1](https://github.com/user-attachments/assets/96c925bb-443f-4e6f-be95-fcab722f98fc)
 
 
 ## Games Tests :
