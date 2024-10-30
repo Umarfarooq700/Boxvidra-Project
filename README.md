@@ -7,7 +7,7 @@ English
 &nbsp;&nbsp;| &nbsp;&nbsp;
 <a href="https://github.com/Boxvidra/BOXVIDRA-PROJECT./boxvidra/README-ru.md">Русский</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-CN.md">中国人 </a>
+<a href="https://github.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/README-cn.md">中国人 </a>
 
 * `Our Social Media Accounts`
 
@@ -65,14 +65,14 @@ To install either the **Boxvidra Emulator Native** or **Boxvidra Emulator Proot*
 
 * `Boxvidra Emulator Native` :
 ```bash
-curl -s -o ~/x https://raw.githubusercontent.com/AGENT404TRD/BOXVIDRA-PROJECT/boxvidra/Scripts/Native/install-native && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/Scripts/Native/install-native && . ~/x
 ```
 
 * `Boxvidra Emulator Proot` :
 
 ```bash
 
-It's not available right now
+curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxvidra/Scripts/Proot/install-Proot-Not-Available && . ~/x
 ```
 
 #
@@ -121,7 +121,7 @@ Windows 10 Theme (light) or Windows 11 Theme (light).
 * `DXVK` 2.2 gplasync or 2.3 gplasync
 * `Primary Cores` 8 Cores
 * `HUD` Mangohud Or DXVK HUD
-* `Wine` 8.18 Staging `(For Old/New Gen Games)` and 8.25 `(For Old Gen Games)`
+* `Wine` Wine 8.25 `(For Old/New Gen Games)`
 * `Theme` Windows 11 Theme (Light) or
 Windows 11 Theme (Purple) or Windows 10 Theme (light) or Windows 10 Theme (Red, Gaming)
 
@@ -159,17 +159,10 @@ You can change the theme you want with a wide library of themes :
 
 ![Screenshot_2024-08-28-03-47-27-044_com termux x11-edit](https://github.com/user-attachments/assets/629ccc6d-b8df-4eae-970b-28da0ab858e8)
 
-![Screenshot_2024-08-28-03-47-46-022_com termux x11-edit](https://github.com/user-attachments/assets/06eb3ed6-d8d7-42fb-80b4-a5e59d4ba484)
-
-![Screenshot_2024-08-28-03-49-17-014_com termux x11-edit](https://github.com/user-attachments/assets/cb0f12ed-b8b5-420e-9dbb-a593d8441b28)
-
 * `Windows 11 Dark Theme`
   
 ![Screenshot_2024-08-28-03-55-44-001_com termux x11-edit](https://github.com/user-attachments/assets/1248905d-61e2-4199-8e9c-af63d202842d)
 
-![Screenshot_2024-08-28-03-56-11-324_com termux x11-edit](https://github.com/user-attachments/assets/75a82f08-4aa7-4200-9d28-f3ea2040e8ff)
-
-![Screenshot_2024-08-28-03-57-05-063_com termux x11-edit](https://github.com/user-attachments/assets/777258de-1608-4ceb-9f1c-c3612b897ec3)
 
 ## Another Settings And Informations About Boxvidra Native And Boxvidra Proot:
 
@@ -188,7 +181,7 @@ Through it you can completely modify the system, and apply the appropriate setti
 
 * `resolution mode` exact or native
 
-* `Resolution` 800x600 For Boxvidra Native
+* `Resolution` 1280x720 For Boxvidra Native
 * `Resolution` 1280x720 For Boxvidra Proot
 
 * `Reseed Screen While Soft Keyboard is open` OFF
