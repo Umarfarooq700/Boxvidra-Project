@@ -158,6 +158,12 @@ You can change the theme you want with a wide library of themes, In addition, we
 
 
 
+* `Windows 10 Yellow Theme (Mode)`
+  
+
+
+
+
 * `Windows 7 Theme`
   
 ![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
