@@ -160,6 +160,7 @@ You can change the theme you want with a wide library of themes, In addition, we
 
 * `Windows 10 Yellow Theme (Mode)`
   
+![Windows10Yellow](https://github.com/user-attachments/assets/ce0e0bed-d29e-40ce-9c55-c63b1658ec78)
 
 
 
