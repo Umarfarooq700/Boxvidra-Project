@@ -132,31 +132,30 @@ Windows 11 Theme (Purple) or Windows 10 Theme (light) or Windows 10 Theme (Red, 
 You can change the theme you want with a wide library of themes, In addition, we have included the Windows 10 Theme Pack, which includes six themes (Modes) such as Windows 10 Light, Windows 10 Dark, Windows 10 Purple, Etc., You can switch between these modes with ease from the main interface, from boxvidra cfg, or from WineXF Manager without the need To download each mode separately via the Internet, you do not need the Internet anymore because everything is already available and ready for use, and we have also included the Windows 7 Theme, Windows XP Theme, and Windows 95 Theme, as you will see as shown below :
 * `Windows 10 Light Theme (Mode)`
   
-![Screenshot_2024-07-02-17-19-12-482_com termux x11-edit](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR/assets/158003190/b64d88c8-6a55-4aa3-a1e5-a668a39b4751)
+![Windows10Light](https://github.com/user-attachments/assets/2f39ec10-922d-4118-b091-080b04a605a4)
 
 
 * `Windows 10 Dark Theme (Mode)`
   
-![Windows10red](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/17f82cf3-a347-4535-b015-8f121ae4c583)
+![Windows10Dark](https://github.com/user-attachments/assets/1bf6e70b-7d1d-4c05-8d7b-01444e5dc9c5)
+
 
 * `Windows 10 Red Theme (Mode)`
 
-![Screenshot_2024-07-02-16-47-43-541_com termux x11-edit](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR/assets/158003190/b012ab8a-b52b-413e-9c1b-a459fa69476f)
+![Windows10Red](https://github.com/user-attachments/assets/fda181f9-94d6-4f55-ab43-571bc036ef11)
+
 
   
 * `Windows 10 Purple Theme (Mode)`
   
-![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+![Win10Purple](https://github.com/user-attachments/assets/d6518f36-8723-4fc7-9107-b45553a62018)
+
 
 
 * `Windows 10 Green Theme (Mode)`
   
-![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+![Windows10Green](https://github.com/user-attachments/assets/75e43758-524a-4db8-8d7a-fd9b17350559)
 
-
-* `Windows 10 Yellow Theme (Mode)`
-  
-![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
 
 
 * `Windows 7 Theme`
