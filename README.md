@@ -108,7 +108,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxv
 
 #
 
-### Recommend Settings For Boxvidra Native:
+### Recommend Settings For Boxvidra Project - Emulator (Native):
 * `DXVK` 2.2 gplasync or 2.3 gplasync
 * `Turnip`V4 or V3
 * `Primary Cores` 8 Cores
@@ -117,7 +117,7 @@ curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/BOXVIDRA-PROJECT./boxv
 * `Theme` Windows 10 Theme (red, gaming) or
 Windows 10 Theme (light) or Windows 11 Theme (light).
 
-### Recommend Settings For Boxvidra Proot:
+### Recommend Settings For Boxvidra Project - Emulator (Proot):
 * `DXVK` 2.2 gplasync or 2.3 gplasync
 * `Primary Cores` 8 Cores
 * `HUD` Mangohud Or DXVK HUD
@@ -127,46 +127,67 @@ Windows 11 Theme (Purple) or Windows 10 Theme (light) or Windows 10 Theme (Red, 
 
 #
 
-## Boxvidra Native Themes :
+## Boxvidra Project - Emulator (Native) Themes :
 
-You can change the theme you want with a wide library of themes :
-* `Windows 10 Theme Light`
+You can change the theme you want with a wide library of themes, In addition, we have included the Windows 10 Theme Pack, which includes six themes (Modes) such as Windows 10 Light, Windows 10 Dark, Windows 10 Purple, Etc., You can switch between these modes with ease from the main interface, from boxvidra cfg, or from WineXF Manager without the need To download each mode separately via the Internet, you do not need the Internet anymore because everything is already available and ready for use, and we have also included the Windows 7 Theme, Windows XP Theme, and Windows 95 Theme, as you will see as shown below :
+* `Windows 10 Light Theme (Mode)`
   
 ![Screenshot_2024-07-02-17-19-12-482_com termux x11-edit](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR/assets/158003190/b64d88c8-6a55-4aa3-a1e5-a668a39b4751)
 
 
-* `Windows 10 Theme Red, Gaming Theme`
+* `Windows 10 Dark Theme (Mode)`
   
 ![Windows10red](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/17f82cf3-a347-4535-b015-8f121ae4c583)
 
-* `Windows 10 Purple, Space Theme`
+* `Windows 10 Red Theme (Mode)`
 
 ![Screenshot_2024-07-02-16-47-43-541_com termux x11-edit](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR/assets/158003190/b012ab8a-b52b-413e-9c1b-a459fa69476f)
 
   
+* `Windows 10 Purple Theme (Mode)`
+  
+![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+
+
+* `Windows 10 Green Theme (Mode)`
+  
+![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+
+
+* `Windows 10 Yellow Theme (Mode)`
+  
+![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+
+
 * `Windows 7 Theme`
   
 ![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
 
+
+* `Windows XP Theme`
+  
+![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+
+
 * `Windows 95 Theme`
   
-![windowsXP](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/7baa170d-7356-49f2-97f0-0eda7f4e87ee)
+![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
 
 
-## Boxvidra Proot Themes :
+## Boxvidra Project - Emulator (Proot) Themes :
 
-* `Windows 11 Light Theme`
+This is also the case with the Proot version, but let us take into account that the Proot version is still under development, so let us consider these to be some leaks or a superficial vision of the Windows 11 theme in Proot, as shown below:
+
+* `Windows 11 Light Theme (Mode)`
 
 ![Screenshot_2024-08-28-03-47-27-044_com termux x11-edit](https://github.com/user-attachments/assets/629ccc6d-b8df-4eae-970b-28da0ab858e8)
 
-* `Windows 11 Dark Theme`
+* `Windows 11 Dark Theme (Mode)`
   
 ![Screenshot_2024-08-28-03-55-44-001_com termux x11-edit](https://github.com/user-attachments/assets/1248905d-61e2-4199-8e9c-af63d202842d)
 
 
-## Another Settings And Informations About Boxvidra Native And Boxvidra Proot:
-
-# HUD :
+## HUD :
 
 You can change the hud to show the GPU usage, CPU and FPS rate, also you can install `MANGOHUD` for more information and better appearance.
 
@@ -262,10 +283,10 @@ The general idea of ​​Boxvidra Emulator Native and Proot is to emulate the c
 
 
 
-## Vionex And Aionex Systems :
+## Lenox3 Emulator :
 * Not Available At The Moment.
 
-## Lenox3 Emulator :
+## Vionex And Aionex Systems :
 * Not Available At The Moment.
 
 
