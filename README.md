@@ -167,17 +167,20 @@ You can change the theme you want with a wide library of themes, In addition, we
 
 * `Windows 7 Theme`
   
-![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+![Windows7](https://github.com/user-attachments/assets/ecd4c4b5-7e9b-450d-bbf4-30c4969c32fc)
+
 
 
 * `Windows XP Theme`
   
-![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+![WindowsXP](https://github.com/user-attachments/assets/fa9208fa-538a-403e-844f-dd4d26bd192f)
+
 
 
 * `Windows 95 Theme`
   
-![IMG_20240614_023354_471](https://github.com/AGENT404TRD/BOXVIDRA-EMULATOR-BETA-/assets/158003190/86caa66a-b530-4858-aef0-584663e61155)
+![Windows95](https://github.com/user-attachments/assets/693c2453-9b1c-403b-ba93-0ad5b84c710c)
+
 
 
 ## Boxvidra Project - Emulator (Proot) Themes :
