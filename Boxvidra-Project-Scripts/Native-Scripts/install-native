@@ -264,7 +264,7 @@ case $? in
     "1" "\Z6Windows 10 Light Mode Theme \Z5(New, Recommended)" \
     "2" "\Z6Windows 10 Dark Mode Theme \Z5(Recommended)" \
     "3" "\Z6Windows 10 Red Mode Theme \Z5(New, Recommended As A Gaming Theme)" \
-    "4" "\Z6Windows 10 Purple Mode Theme \Z5(New, Recommended)"
+    "4" "\Z6Windows 10 Purple Mode Theme \Z5(New, Recommended)" \
     "5" "\Z6Windows 10 Green Mode Theme \Z5(New)" \
     "6" "\Z6Windows 10 Yellow Mode Theme \Z5(New)"
     case $? in
