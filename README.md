@@ -186,11 +186,11 @@ This is also the case with the Proot version, but let us take into account that 
 
 * `Windows 11 Light Theme (Mode)`
 
-![Screenshot_2024-08-28-03-47-27-044_com termux x11-edit](https://github.com/user-attachments/assets/629ccc6d-b8df-4eae-970b-28da0ab858e8)
+![Windows11Light](https://github.com/user-attachments/assets/629ccc6d-b8df-4eae-970b-28da0ab858e8)
 
 * `Windows 11 Dark Theme (Mode)`
   
-![Screenshot_2024-08-28-03-55-44-001_com termux x11-edit](https://github.com/user-attachments/assets/1248905d-61e2-4199-8e9c-af63d202842d)
+![Windows11Dark](https://github.com/user-attachments/assets/1248905d-61e2-4199-8e9c-af63d202842d)
 
 
 ## HUD :
