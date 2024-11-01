@@ -65,7 +65,7 @@ To install either the **Boxvidra Emulator Native** or **Boxvidra Emulator Proot*
 
 * `Boxvidra Emulator Native` :
 ```bash
-curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/Boxvidra-Project/boxvidra/Boxvidra Project ( Emulator - Scripts )/Boxvidra Project ( Emulator - Native Ver )/install-native && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/boxvidra/Boxvidra-Project/boxvidra/Boxvidra Project Scripts/Native Scripts/install-native && . ~/x
 ```
 
 * `Boxvidra Emulator Proot` :
