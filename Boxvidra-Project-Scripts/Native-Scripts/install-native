@@ -100,10 +100,13 @@ case $? in
     echo -e "\e[33m[i] Setting Up Box64 And Box86 Glibc Scripts And Files . . .\e[0m"
     tar -xf /data/data/com.termux/files/usr/glibc/opt/glibc.box64-86.scripts.tar.xz -C /data/data/com.termux/files/usr/glibc/opt/
     sleep 2
-    cp /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra /data/data/com.termux/files/usr/bin
-    cp /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra-native /data/data/com.termux/files/usr/bin
-    cp /data/data/com.termux/files/usr/glibc/opt/scripts/vidra /data/data/com.termux/files/usr/bin
+    mv /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra /data/data/com.termux/files/usr/bin
+    mv /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra-native /data/data/com.termux/files/usr/bin
+    mv /data/data/com.termux/files/usr/glibc/opt/scripts/vidra /data/data/com.termux/files/usr/bin
     chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/*
+    chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/settings-manage/*
+    chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/important-scripts/*
+    chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/start-modes/*
     chmod 777 /data/data/com.termux/files/usr/bin/boxvidra
     chmod 777 /data/data/com.termux/files/usr/bin/boxvidra-native
     chmod 777 /data/data/com.termux/files/usr/bin/vidra
@@ -144,10 +147,13 @@ fi
     echo -e "\e[33m[i] Setting Up Wow64 Glibc (Scripts) . . .\e[0m"
     tar -xf /data/data/com.termux/files/usr/glibc/opt/glibc.wow64.scripts.tar.xz -C /data/data/com.termux/files/usr/glibc/opt/
     sleep 2
-    cp /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra /data/data/com.termux/files/usr/bin
-    cp /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra-native /data/data/com.termux/files/usr/bin
-    cp /data/data/com.termux/files/usr/glibc/opt/scripts/vidra /data/data/com.termux/files/usr/bin
+    mv /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra /data/data/com.termux/files/usr/bin
+    mv /data/data/com.termux/files/usr/glibc/opt/scripts/boxvidra-native /data/data/com.termux/files/usr/bin
+    mv /data/data/com.termux/files/usr/glibc/opt/scripts/vidra /data/data/com.termux/files/usr/bin
     chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/*
+    chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/settings-manage/*
+    chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/important-scripts/*
+    chmod +x /data/data/com.termux/files/usr/glibc/opt/scripts/start-modes/*
     chmod +x /data/data/com.termux/files/usr/bin/*
     chmod 777 /data/data/com.termux/files/usr/bin/boxvidra
     chmod 777 /data/data/com.termux/files/usr/bin/boxvidra-native
