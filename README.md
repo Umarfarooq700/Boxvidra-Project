@@ -202,9 +202,23 @@ You can change the hud to show the GPU usage, CPU and FPS rate, also you can ins
 
 
 
-## Boxvidra Native And Boxvidra Proot configuration application :
+## Boxvidra Native And Boxvidra Proot Configuration Applications :
 
-Through it you can completely modify the system, and apply the appropriate settings to give you the best performance, With all versions of dxvk, wined3d, turnip and virgl.
+There are two main programs that you can choose between to control Wine settings and the like, such as changing dxvk, mesa, vkd3d, and more, such as `Boxvidra Configuration Application` And `WineXF Manager Application` Through them, you can completely modify the system, and apply the appropriate settings to give you the best performance, With all versions of dxvk, vkd3d, wined3d, turnip and virgl.
+
+* `Boxvidra Configuration Application`
+
+* `WineXF Manager Application`
+
+And Also, you can change their themes easily and freely, without needing a internet, and from the cfg apps section in main menu.
+
+* Boxvidra Configuration Application (Light)
+
+* Boxvidra Configuration Application (Dark)
+
+* WineXF Manager Application (Light)
+
+* WineXF Manager Application (Yellow)
 
 
 ### Recommend setup for termux-x11 :
