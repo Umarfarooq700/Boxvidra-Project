@@ -226,7 +226,8 @@ And Also, you can change their themes easily and freely, without needing a inter
 ![WineXF Manager Light](https://github.com/user-attachments/assets/978578fd-3b01-4d49-87b6-e85157e2bb14)
 
 * WineXF Manager Application (Orane)
-![WineXF Manager Orange](https://github.com/user-attachments/assets/87a0d0ba-80de-4e3d-8e99-4a5824ea913a)
+![WineXF Manager Orange](https://github.com/user-attachments/assets/5cc2f9f6-ef4f-4da4-bf2f-2e0b5cd4bec2)
+
 
 
 ### Recommend setup for termux-x11 :
