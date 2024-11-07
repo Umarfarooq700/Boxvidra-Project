@@ -336,7 +336,7 @@ The general idea of ​​Boxvidra Emulator Native and Proot is to emulate the c
 * `ApTrex`
 * `Damon King`
 * `Tricky Guy`
-
+* Umar Farooq
 ## Our Special Users :
 * `SAIF`
 * `Ms.Edryll`
