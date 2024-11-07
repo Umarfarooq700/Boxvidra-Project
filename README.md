@@ -207,14 +207,18 @@ You can change the hud to show the GPU usage, CPU and FPS rate, also you can ins
 There are two main programs that you can choose between to control Wine settings and the like, such as changing dxvk, mesa, vkd3d, and more, such as `Boxvidra Configuration Application` And `WineXF Manager Application` Through them, you can completely modify the system, and apply the appropriate settings to give you the best performance, With all versions of dxvk, vkd3d, wined3d, turnip and virgl.
 
 * `Boxvidra Configuration Application`
+![Boxvidra Cfg](https://github.com/user-attachments/assets/592ef03a-feb2-4e60-a843-4cb5915b6ac3)
 
 * `WineXF Manager Application`
+![WineXF_Manager](https://github.com/user-attachments/assets/d94f6a41-9ca2-425b-9bcb-ba48d33ecdd4)
 
 And Also, you can change their themes easily and freely, without needing a internet, and from the cfg apps section in main menu.
 
 * Boxvidra Configuration Application (Light)
+![Boxvidra Cfg Light](https://github.com/user-attachments/assets/f1a8fa5e-c420-4b73-abb5-5085617f4370)
 
 * Boxvidra Configuration Application (Dark)
+![Boxvidra Cfg Dark](https://github.com/user-attachments/assets/e8b6aed8-64b7-4ee5-8e66-b3a0fec20688)
 
 * WineXF Manager Application (Light)
 
