@@ -43,7 +43,7 @@ This project contains `Five` `Systems/Emulators` :
 * `Boxvidra Emulator Proot`
 * `Vionex` `Aionex` `Leonx3`
 
-# Boxvidra Emulator Native And Boxvidra Emulator Proot :
+# Boxvidra Emulator Native `(v1.1.0)` And Boxvidra Emulator Proot :
 
 ### **Installation Requirements:**
 
