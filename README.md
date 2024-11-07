@@ -215,14 +215,18 @@ There are two main programs that you can choose between to control Wine settings
 And Also, you can change their themes easily and freely, without needing a internet, and from the cfg apps section in main menu.
 
 * Boxvidra Configuration Application (Light)
-![Boxvidra Cfg Light](https://github.com/user-attachments/assets/f1a8fa5e-c420-4b73-abb5-5085617f4370)
+![Boxvidra Cfg Light](https://github.com/user-attachments/assets/234f5b95-2aff-45a3-b232-235cc3cc32f5)
+
 
 * Boxvidra Configuration Application (Dark)
-![Boxvidra Cfg Dark](https://github.com/user-attachments/assets/e8b6aed8-64b7-4ee5-8e66-b3a0fec20688)
+![Boxvidra Cfg Dark](https://github.com/user-attachments/assets/e44af0d1-c3d8-486e-8965-2da12263dc86)
+
 
 * WineXF Manager Application (Light)
+![WineXF Manager Light](https://github.com/user-attachments/assets/978578fd-3b01-4d49-87b6-e85157e2bb14)
 
-* WineXF Manager Application (Yellow)
+* WineXF Manager Application (Orane)
+![WineXF Manager Orange](https://github.com/user-attachments/assets/87a0d0ba-80de-4e3d-8e99-4a5824ea913a)
 
 
 ### Recommend setup for termux-x11 :
